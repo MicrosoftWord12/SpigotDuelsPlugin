@@ -1,0 +1,8 @@
+name: SpigotDuels
+version: '${project.version}'
+main: com.Microsoft.SpigotDuels
+api-version: 1.17
+prefix: [ SpigotDuels ]
+load: STARTUP
+authors: [ MicrosoftWord12 ]
+description: Make Minecraft Duels
